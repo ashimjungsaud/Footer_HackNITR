@@ -197,7 +197,7 @@ p,
     flex-wrap: wrap;
     flex-shrink: 0;
     flex-grow: 0;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     gap: 10px;
   }
